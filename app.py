@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas a pd
+import pandas as pd
 import numpy as np 
 from prediction import predict
 st.title('Classifying Iris Flowers')
